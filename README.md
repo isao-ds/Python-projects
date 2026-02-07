@@ -1,4 +1,4 @@
-🧑‍💻 <b>List of projects:</b>
+###🧑‍💻 List of projects:
 ---
 
 #### 📂 Project-0001p — Project name
